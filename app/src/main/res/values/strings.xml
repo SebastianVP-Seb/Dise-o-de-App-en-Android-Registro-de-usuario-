@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ActividadSemana2</string>
+    <string name="nombre">Introduce tu nombre</string>
+    <string name="celular">Introduce tu número de celular</string>
+    <string name="email">Introduce tu email</string>
+    <string name="descripción">Introduce una descripción</string>
+    <string name="btnsig">Siguiente</string>
+    <string name="btneditar">EDITAR DATOS</string>
+    <string name="titulo2">Confirma tus datos</string>
+    <string name="cnombre">Nombre: </string>
+    <string name="cfecha">Fecha de nacimiento: </string>
+    <string name="ccelular">Celular: </string>
+    <string name="cemail">Email: </string>
+    <string name="cdescripcion">Descripción: </string>
+    <string name="pulsafecha">Ingresa tu fecha de nacimiento</string>
+</resources>
